@@ -1,1 +1,2 @@
-###This is the repo to Learn GitHub Actions
+# This is the Repo to Learn GitHub Actions
+Tested a simple Subraction and Addition app
